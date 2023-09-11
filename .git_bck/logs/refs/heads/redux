@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 6f928df503e254b80a97449fdc52681433c12eb4 Jackson Soriano <jackson.masters.it@gmail.com> 1684937957 +0800	branch: Created from refs/remotes/origin/dev
+6f928df503e254b80a97449fdc52681433c12eb4 e7bd036cd0c4904c789605248d02b37551da638b Jackson Soriano <jackson.masters.it@gmail.com> 1684944676 +0800	commit: feat: project list added
+e7bd036cd0c4904c789605248d02b37551da638b fbd6ad7b05ba5a95bc226bbeab36e39c7decf50c Jackson Soriano <jackson.masters.it@gmail.com> 1684944769 +0800	commit: feat: project list added
+fbd6ad7b05ba5a95bc226bbeab36e39c7decf50c d2641cf8509b97b84457fd2e1d2b6497cee42b02 Jackson Soriano <jackson.masters.it@gmail.com> 1684944810 +0800	commit: feat: project list added
+d2641cf8509b97b84457fd2e1d2b6497cee42b02 38e86dcde93e49341b3e442d7f3a0aef6c194f51 Jackson Soriano <jackson.masters.it@gmail.com> 1684944838 +0800	commit: feat: project list added
+38e86dcde93e49341b3e442d7f3a0aef6c194f51 7b0234b4b6f17143118378b2beeb1bd27119baa4 Jackson Soriano <jackson.masters.it@gmail.com> 1684984354 +0800	commit: feat: added dev tools
+7b0234b4b6f17143118378b2beeb1bd27119baa4 91f7605f66c466c727b1f1a0034d782e9f5bf8be Jackson Soriano <jackson.masters.it@gmail.com> 1685003676 +0800	commit: feat: almost done
+91f7605f66c466c727b1f1a0034d782e9f5bf8be b9c17fc47d46c4590db8c6272b01f813b5fbde60 Jackson Soriano <jackson.masters.it@gmail.com> 1685003704 +0800	commit: feat: almost done
+b9c17fc47d46c4590db8c6272b01f813b5fbde60 b9c17fc47d46c4590db8c6272b01f813b5fbde60 Jackson Soriano <jackson.masters.it@gmail.com> 1685131008 +0800	Branch: renamed refs/heads/dev to refs/heads/reducer
+b9c17fc47d46c4590db8c6272b01f813b5fbde60 07715fe9749bab81144735d753441ad71a976b02 Jackson Soriano <jackson.masters.it@gmail.com> 1685131242 +0800	commit: fix: cleanse for reducer topic
+07715fe9749bab81144735d753441ad71a976b02 22c70304f57c9f6da237a64e8d71676c05595161 Jackson Soriano <jackson.masters.it@gmail.com> 1685131954 +0800	commit: fix: added files
+22c70304f57c9f6da237a64e8d71676c05595161 1dc6e5cb6005b00fc74dbfcf6f331ccadf713e8c Jackson Soriano <jackson.masters.it@gmail.com> 1685175929 +0800	commit: fix: added files
+1dc6e5cb6005b00fc74dbfcf6f331ccadf713e8c 1dc6e5cb6005b00fc74dbfcf6f331ccadf713e8c Jackson Soriano <jackson.masters.it@gmail.com> 1685175977 +0800	Branch: renamed refs/heads/reducer to refs/heads/redux
+1dc6e5cb6005b00fc74dbfcf6f331ccadf713e8c e28c88584d5142e029e20882595329a689096a09 Jackson Soriano <jackson.masters.it@gmail.com> 1685183416 +0800	commit: fix: added files
+e28c88584d5142e029e20882595329a689096a09 8b56787a309ffe3a6ebdea053e6f5515dbb5f072 Jackson Soriano <jackson.masters.it@gmail.com> 1685183424 +0800	commit: fix: added files
+8b56787a309ffe3a6ebdea053e6f5515dbb5f072 fddb5b84d3133deee4f1af849eaeff2153fe4236 Jackson Soriano <jackson.masters.it@gmail.com> 1685183488 +0800	commit: fix: added files
